@@ -1,6 +1,11 @@
 ## About
 
-This is an App that encapsulates somme terminal commands that I've been using to control the brightness of my laptop below supported levels, so I can watch videos at night without getting constantly harassed.
+`!! PSA: this is heavily unoptimized !!`
+<sub><sup> for obvious reasons</sup></sub>
+
+<sub><sup> currently, 90MB for a tray icon. about 10³ more than it should be. thanks.</sup></sub>
+
+This is an App that encapsulates some terminal commands that I've been using to control the brightness of my laptop below supported levels, so I can watch videos at night without getting constantly harassed.
 
 More specifically, **these** commands:
 

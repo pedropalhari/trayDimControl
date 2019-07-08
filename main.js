@@ -18,6 +18,8 @@ https://www.freepik.com/?__hstc=57440181.52edd16ebb7b70dc6e1fb905a24ef9fd` +
 app.on("ready", () => {
   let { SUDO_PASS } = process.env;
 
+  console.log(process.getProcessMemoryInfo().then(console.log));
+
   if (!SUDO_PASS) {
     throw "You forgot to setup a SUDO_PASS. The app won't be able to modify the file";
   }
